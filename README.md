@@ -43,11 +43,4 @@ P2/SPIN2:
 * Most I2C-changeable settings not implemented yet (read-only)
 * No handling of capabilities container (CC) file
 * TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
-* TBD
 
