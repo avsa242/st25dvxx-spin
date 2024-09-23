@@ -1,13 +1,12 @@
 {
-    --------------------------------------------
-    Filename: core.con.st25dvxx.spin
-    Author: Jesse Burt
-    Description: ST25DVxx-specific constants
-    Copyright (c) 2023
-    Started Mar 28, 2023
-    Updated Apr 1, 2023
-    See end of file for terms of use.
-    --------------------------------------------
+----------------------------------------------------------------------------------------------------
+    Filename:       core.con.st25dvxx.spin
+    Description:    ST25DVxx-specific constants
+    Author:         Jesse Burt
+    Started:        Mar 28, 2023
+    Updated:        Sep 23, 2024
+    Copyright (c) 2024 - See end of file for terms of use.
+----------------------------------------------------------------------------------------------------
 }
 
 CON
@@ -244,12 +243,14 @@ CON
     MB_LEN                  = $2007
         MB_LEN_BYTES        = 0                 ' -1
 
-PUB null{}
+
+PUB null()
 ' This is not a top-level object
+
 
 DAT
 {
-Copyright 2023 Jesse Burt
+Copyright 2024 Jesse Burt
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and
 associated documentation files (the "Software"), to deal in the Software without restriction,
